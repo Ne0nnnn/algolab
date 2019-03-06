@@ -1,0 +1,5 @@
+# wy³¹cznie ze s\œledzenia ktalogu /.idea/
+/.idea/*
+/out/*
+# wy³¹cznie ze s\œledzenia pliku z rozszerzenie
+Lab_1.iml
