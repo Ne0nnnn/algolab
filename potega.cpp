@@ -13,7 +13,7 @@ int main()
 	cout<<"podaj potege:";
 	cin>>n;
 //-------------------------------
-	cout<<potega(liczba,n);
+	cout<<"wynik to"<<potega(liczba,n)<<endl;
 
 		 return 0;
 }
@@ -36,7 +36,6 @@ else if(potega<0)
 for(int i=0;i<potega;i++)
 	{
 	wynik=wynik*liczba;
-	cout<<wynik<<"="<<wynik<<"*"<<potega<<endl;
 	}
 return wynik;
 
